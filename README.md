@@ -32,4 +32,6 @@ Analyze how Bitcoin market sentiment (Fear & Greed) impacts trader performance a
 - Encourage disciplined trading during volatile sentiment phases
 
 ## How to Run
-Open `primeTrade_analysis.ipynb` in Jupyter Notebook or VS Code and run all cells.
+1. Open `primeTrade_analysis.ipynb`
+2. Run all cells top to bottom
+3. Ensure required libraries: pandas, numpy, matplotlib, seaborn
